@@ -1,0 +1,9 @@
+{
+    "vitesse_initiale_kmh": 900.0,
+    "altitude_initiale_m": 10000.0,
+    "distance_piste_initiale_m": -7000.0,
+    "vitesse_decrochage_initiale_kmh": 300.0,
+    "gammaX_max": -40.0,
+    "gammaY_max": -6.0,
+    "piste_longueur_m": 3000.0
+}
